@@ -55,12 +55,10 @@
 
 
   /* CSS for the table */
-table {
-    width: 100%;
+  table {
+    width: 49%;
     border-collapse: collapse;
-    margin-top: 20px;
-  }
-  
+}
   th {
     background-color: #f2f2f2;
     color: #333;
